@@ -12,7 +12,7 @@ The game has six missions.
 
 Collect five weapons of the same type. The mission will be completed with five weapons of the same type and a maximum level of protective power field.
 
-Good luck with mastering the hostile galaxy!
+Good luck in mastering the hostile galaxy!
 
 
 Some screenshots:
