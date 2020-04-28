@@ -17,7 +17,8 @@ Good luck with mastering the hostile galaxy!
 
 Some screenshots:
 ------------------------------
-<img src="/01_main.jpg"  height="640" width="360">
+<img src="/main.jpg"  height="640" width="360">
+<img src="/Screenshot_DarkSpace.jpg"  height="640" width="360">
 
 
 
